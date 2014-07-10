@@ -4,7 +4,7 @@ if exists("syntax_on")
     syntax reset
 endif
 
-let colors_name = "noproblem"
+let colors_name = "plain"
 
 hi Comment         guifg=#bdc3c7                      gui=none
 hi Constant        guifg=#cc0000                      gui=none
