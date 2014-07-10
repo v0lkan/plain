@@ -44,4 +44,4 @@ And the perfect sweet spot depends from person to person; and also it depends on
 
 Currently I have only have a **vim** GUI scheme (*because I use _vim_ all the time, and it is the best editor in the known universe*).
 
-Feel free to fork it, add variations, and/or support for your favorite development environment.
+Feel free to fork **plain**, add variations, and/or support for your favorite development environment.
