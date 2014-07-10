@@ -1,0 +1,30 @@
+{
+  "name": "plain",
+  "version": "0.0.0",
+  "description": "A simple, minimalistic, an easy-on-the-eyes coding color scheme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/v0lkan/plain.git"
+  },
+  "keywords": [
+    "minimalistic",
+    "color",
+    "scheme",
+    "dark",
+    "on",
+    "light",
+    "light",
+    "astigmatism",
+    "ambylopia"
+  ],
+  "author": "Volkan Özçelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v0lkan/plain/issues"
+  },
+  "homepage": "https://github.com/v0lkan/plain"
+}
