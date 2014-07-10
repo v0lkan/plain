@@ -7,13 +7,17 @@ A simple, minimalistic, an easy-on-the-eyes coding color scheme.
 
 ## The Story
 
-For a long time, I was in search for a
+I was in search for a
 
 * high-contrast, while easy on the eyes;
 * minimalistic, while having adequate details;
 * specifically designed for those who have considerable astigmatism and [amblyopia](http://en.wikipedia.org/wiki/Amblyopia)&hellip;
 
 color scheme for a long time.
+
+Not finding a perfect fit for my needs, I decided to create one from scratch.
+
+I have used this scheme for long coding sessions, daytime, and nighttime; and my eyes feel better than ever!
 
 > When **astigmatism** is combined with **ambylopia** (*1% of the general population on average*), no matter what kind of corrective lens you use; when you code for long hours, your eyes lose their ability to focus, and you start to see “halos” around text, accompanied by headaches and eye fatigue.
 >
