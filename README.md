@@ -7,13 +7,17 @@ A simple, minimalistic, an easy-on-the-eyes coding color scheme.
 
 ## The Story
 
-For a long time, I was in search for a
+I was in search for a
 
 * high-contrast, while easy on the eyes;
 * minimalistic, while having adequate details;
 * specifically designed for those who have considerable astigmatism and [amblyopia](http://en.wikipedia.org/wiki/Amblyopia)&hellip;
 
 color scheme for a long time.
+
+Not finding a perfect fit for my needs, I decided to create one from scratch.
+
+I have been using this scheme for a long time, in 8-10 hour coding sessions, daytime and nighttime; and my eyes more relaxed  than ever!
 
 > When **astigmatism** is combined with **ambylopia** (*1% of the general population on average*), no matter what kind of corrective lens you use; when you code for long hours, your eyes lose their ability to focus, and you start to see “halos” around text, accompanied by headaches and eye fatigue.
 >
@@ -38,6 +42,6 @@ And the perfect sweet spot depends from person to person; and also it depends on
 
 **Plain** color scheme has high enough contrast to make is pleasing to the eye; and low enough contrast to make it less tiresome. And since it is a dark-on-light scheme, it’s a really nice fit for those who have astigmatism.
 
-Currently I have only have a **vim** GUI scheme (*because I use **vim** all the time, and it is the best editor in the known universe*).
+Currently I have only have a **vim** GUI scheme (*because I use _vim_ all the time, and it is the best editor in the known universe*).
 
-Feel free to fork it, add variations, and/or support for your favorite development environment.
+Feel free to fork **plain**, add variations, and/or support for your favorite development environment.
