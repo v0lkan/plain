@@ -42,6 +42,6 @@ And the perfect sweet spot depends from person to person; and also it depends on
 
 **Plain** color scheme has high enough contrast to make is pleasing to the eye; and low enough contrast to make it less tiresome. And since it is a dark-on-light scheme, it’s a really nice fit for those who have astigmatism.
 
-Currently I have only have a **vim** GUI scheme (*because I use **vim** all the time, and it is the best editor in the known universe*).
+Currently I have only have a **vim** GUI scheme (*because I use _vim_ all the time, and it is the best editor in the known universe*).
 
 Feel free to fork it, add variations, and/or support for your favorite development environment.
