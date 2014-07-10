@@ -17,7 +17,7 @@ color scheme for a long time.
 
 Not finding a perfect fit for my needs, I decided to create one from scratch.
 
-I have been using this scheme for a long time, in 8-10 hour coding sessions, daytime and nighttime; and my eyes feel better than ever!
+I have been using this scheme for a long time, in 8-10 hour coding sessions, daytime and nighttime; and my eyes more relaxed  than ever!
 
 > When **astigmatism** is combined with **ambylopia** (*1% of the general population on average*), no matter what kind of corrective lens you use; when you code for long hours, your eyes lose their ability to focus, and you start to see “halos” around text, accompanied by headaches and eye fatigue.
 >
