@@ -13,7 +13,7 @@ hi CursorLine      guifg=#0000cc     guibg=#ffffff    gui=none
 hi CursorColumn    guibg=#ffffff                      gui=none
 hi ColorColumn     guifg=#000000     guibg=#fafafa    gui=none 
 hi Directory       guifg=#2d91af                      gui=none 
-hi Folded          guifg=#bb64c5     guibg=#333333    gui=none 
+hi Folded          guifg=#7B238D     guibg=#ecf0f1    gui=none 
 hi Function        guifg=#3333ff                      gui=none 
 hi Identifier      guifg=#e74d3c                      gui=none 
 hi LineNr          guifg=#7f8c8d     guibg=#ecf0f1    gui=none  
