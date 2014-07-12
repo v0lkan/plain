@@ -13,7 +13,7 @@ hi CursorLine      guifg=#0000cc     guibg=#ffffff    gui=none
 hi CursorColumn    guibg=#ffffff                      gui=none
 hi ColorColumn     guifg=#000000     guibg=#fafafa    gui=none 
 hi Directory       guifg=#2d91af                      gui=none 
-hi Folded          guifg=#7B238D     guibg=#ecf0f1    gui=none 
+hi Folded          guifg=#bb64c5     guibg=#333333    gui=none 
 hi Function        guifg=#3333ff                      gui=none 
 hi Identifier      guifg=#e74d3c                      gui=none 
 hi LineNr          guifg=#7f8c8d     guibg=#ecf0f1    gui=none  
@@ -26,15 +26,15 @@ hi Statement       guifg=#24368F                      gui=bold
 hi Special         guifg=#3333ff                      gui=none
 hi SpecialKey      guifg=#367cb6                      gui=none
 hi Search          guifg=#000000    guibg=#00ff00     gui=none
-hi StatusLine      guifg=#ffffff    guibg=#999999     gui=none 
-hi StatusLineNC    guifg=#000000    guibg=#dddddd     gui=none
+hi StatusLine      guifg=#ffffff    guibg=#0000cc     gui=none 
+hi StatusLineNC    guifg=#0000cc    guibg=#dadada     gui=bold
 hi String          guifg=#008E00                      gui=none
 hi StorageClass    guifg=#3333ff                      gui=none
 hi Title           guifg=#52cc8d                      gui=none 
 hi Todo            guifg=#d9a46c                      gui=none 
 hi Type            guifg=#0000cc                      gui=none
 hi Underlined      guifg=#80a0ff                      gui=underline 
-hi VertSplit       guifg=#eaeaea    guibg=#eaeaea     gui=bold
+hi VertSplit       guifg=#0000cc                      gui=bold
 hi Visual          guifg=#ffffff    guibg=#3333ff     gui=none 
 
 set cursorline
